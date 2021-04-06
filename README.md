@@ -19,5 +19,3 @@ here you can activate a service that listens if one of the apps you selected is 
 
 Page Browser Service
 if you have activated the service and e.g. listen to music on soundcloud or watch a youtube video, the program tracks this and displays it on discord.
-
-Translated with www.DeepL.com/Translator (free version)
