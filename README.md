@@ -1,5 +1,5 @@
 # DiscordCustomRichPresence
-DiscordCustomRichPresence with buttons and app &amp; browser tab listener
+create your own Disocrd-RichPresence
 
 in my program you will find 3 pages custom, Apps and BrowserServices
 
